@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raju Bhasme</h1>
 <h3 align="center">A passionate full Stack Java Devloper from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajubhasme07&label=Profile%20views&color=0e75b6&style=flat" alt="rajubhasme07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajubhasme07&label=Profile%20views&color=FF5733&style=flat" alt="rajubhasme07" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Java Devlopment Course**
 
