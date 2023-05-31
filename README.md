@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full Stack Java Devloper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajubhasme07&label=Profile%20views&color=FF5733&style=flat" alt="rajubhasme07" /> </p>
-
+- 👨‍💻 Bactchlors of Computer Science
 - 🌱 I’m currently learning **Full-Stack Java Devlopment Course**
 
 - 📫 How to reach me **rajubhasme33@gmail.com**
